@@ -2,7 +2,8 @@
 
 ## Summary
 
-**Purpose:**  
+**Purpose:**
+
 Juno Network is currently at a critical juncture, facing significant challenges. At present, there is no dedicated team responsible for maintaining and optimizing the blockchain infrastructure to ensure its stability, scalability, and efficiency. Additionally, no substantial development or other ecosystem activities are underway. To address these issues and establish a sustainable path forward, we want to propose a roadmap for the Network, covering all 2025. This proposal is giving a general overview of what will be the future of juno, but each item will be voted independently with its own budget attached. With this proposal we are not approving any specific budget yet.
 
 The roadmap proposed is to be consider as a "bridge" phase, with the final objective when the network is ready to switch back to a completly decentralized organizational structure. This might happen in 2026, sooner or later based on factors that we can't predict at this point.
@@ -32,7 +33,7 @@ TO FILL
 ### Q1 2025
 
 - **Appoint a core team**: Appoint a core team to upgrade the network to SDK v50, and to maintain it. ([See Proposal 2](./2-core-team.md))
-- **Reduce infrastructure costs**: Reduce the network intrinsic costs that validators are facing. ([See Proposal 3](./3-improve-infra.md))
+- **Reduce infrastructure costs**: Reduce the network intrinsic costs, and simplify validator coordination by reducing the Validator set. ([See Proposal 3](./3-improve-infra.md))
 - **Budget for Cummunity Owned dAPPs**: Approve budget to build "Juno Portal", a dApp that will feature various blocks, including a Dex, token launchpad, OTC desk and more. ([See Proposal 4](./4-community-dapps.md))
 - **Budget for Community Activities**: Approve budget to run community activities, such as: bounty program, ambassador program, ideathon and more. ([See Proposal 5](./5-community-activities.md))
 - **Budget for Dev Ecosystem Growth**: Approve a budget to develop new tools for developers to build on Juno, such as AI agents framework, Telegram mini apps templates, low-coding UIs while at the same time leverage the custom modules offered by Juno ([See Proposal 6](./6-dev-ecosystem.md))
