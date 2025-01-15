@@ -68,7 +68,7 @@ The majority of the work is targeting Q1, therefore we propose to have two budge
 
 ## Budget handling
 
-All the budget for 2025 will be allocated to a wallet controlled by Dimi, which then will setup a smart contract controlled by the community to handle recurring payments (on DAODAO). Community can cancel the payments at any time.
+The budgets outlined above assume a $JUNO price of $0.20. If the price changes, the budget will adjust accordingly, with a maximum multiplier of 4x and a minimum multiplier of 0.25x.
 
 ### Price disclosure
 
