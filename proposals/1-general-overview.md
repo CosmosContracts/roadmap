@@ -41,6 +41,7 @@ TO FILL
 ### Q2-Q4 2025
 
 - Implementation of the passed proposals from above
+- **Appoint a BD team**: Appoint a team to do business development in behalf of the network.
 - **New delegation program:** Setup a new delegation program to incentivize not only infrasctruture but also app building and community engagement.
 - **Bugdget for Liquidity:** Approve a budget to improve $JUNO liquidity across Decentralized and Centralized Exchanges.
 - **Treasury diversifiaction:** Approve a budget to be diversified across various tools (OTC, automatic swaps, fee-collection)

@@ -31,7 +31,7 @@ The two teams will provide continous support for the following items, until the 
 
 | Team            | Deliverable                                                                                                    |
 | --------------- | -------------------------------------------------------------------------------------------------------------- |
-| Digital Kitchen | Keep the core up to date with third party libraries                                                            |
+| Digital Kitchen | Keep the core up to date with third party libraries (Cosmos SDK 52 LTS and others)                             |
 | Kintsugi Tech   | Handle security patches in a timely manner, to ensure security and stability of the network.                   |
 | Kintsugi Tech   | Manage the Juno Github Org - making sure only relevant people has access and can submit code.                  |
 | Kintsugi Tech   | Update documentation when needed.                                                                              |
@@ -50,7 +50,7 @@ The majority of the work is targeting Q1, therefore we propose to have two budge
 
 | Team            | Budget                                                                                        |
 | --------------- | --------------------------------------------------------------------------------------------- |
-| Digital Kitchen | 60,000 JUNO - To be paid 1/3 with this proposal and 2/3 once the chain is upgraded to SDK v50 |
+| Digital Kitchen | 12,000 USDC - To be paid 1/3 with this proposal and 2/3 once the chain is upgraded to SDK v50 |
 | Kintsugi Tech   | - no need -                                                                                   |
 
 ### Continous Budget
@@ -62,10 +62,14 @@ The majority of the work is targeting Q1, therefore we propose to have two budge
 
 ### Totals
 
-To be paid now: 60,000 JUNO
-To be paid every quarter 20,000 JUNO + 20,000 JUNO
-Total spent at the end of 2025: 220,000 JUNO
+- To be paid in Q1: 12,000 USDC
+- To be paid every quarter after Q1 20,000 JUNO + 20,000 JUNO
+- Total spent at the end of 2025: 12,000 USD + 120,000 JUNO
 
-## Price disclosure
+## Budget handling
 
-The following budgets are tought with a price of $0.20 per $JUNO. In case the price changes, the budget can be adjusted according to market conditions with a max multiplier of 4x and min multiplier of 0.25x;
+All the budget for 2025 will be allocated to a wallet controlled by Dimi, which then will setup a smart contract controlled by the community to handle recurring payments (on DAODAO). Community can cancel the payments at any time.
+
+### Price disclosure
+
+The budgets above are tought with a price of $0.20 per $JUNO. In case the price changes, the budget can be adjusted according to market conditions with a max multiplier of 4x and min multiplier of 0.25x;
