@@ -10,11 +10,11 @@ This proposal has the objective to improve the infrastructure, both from an econ
 
 As of today, Juno has an average block time of 3 seconds but most of the blocks are empty or with very few transactions. Despite this, the size of an archive node for Juno has been growing constantly and is not over 7TB. Out of this 7TB only ~5% is used because of transactions or real data, the other ~95% is just for validator signatures inside block headers.
 
-**Signature size:** 30.94 KB
-**Non-signature size:** 1.58 KB
-**Total size:** 32.52 KB
-**Validator Signatures:** 95.14% of the total size.
-**Non-signature (Real Data):** 4.86% of the total size.
+- **Signature size:** 30.94 KB
+- **Non-signature size:** 1.58 KB
+- **Total size:** 32.52 KB
+- **Validator Signatures:** 95.14% of the total size.
+- **Non-signature (Real Data):** 4.86% of the total size.
 
 _Note: This doesn't reflect 100% precisely the blockchain data size, since that is affected also by other factors such as the indexed database size, but it's to give an overall idea_
 
@@ -28,5 +28,5 @@ In the future we plan to propose additional changes to the network, such as a ne
 
 ## Conclusion
 
-Vote YES if you agree on reducing the validator set size to 80 validators.
-Vote NO if you don't agree.
+- Vote YES if you agree on reducing the validator set size to 80 validators.
+- Vote NO if you don't agree.
