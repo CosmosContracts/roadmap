@@ -4,9 +4,9 @@
 
 **Purpose:**
 
-Juno Network is currently at a critical juncture, facing significant challenges. At present, there is no dedicated team responsible for maintaining and optimizing the blockchain infrastructure to ensure its stability, scalability, and efficiency. Additionally, no substantial development or other ecosystem activities are underway. To address these issues and establish a sustainable path forward, we want to propose a roadmap for the Network, covering all 2025. This proposal is giving a general overview of what will be the future of juno, but each item will be voted independently with its own budget attached. With this proposal we are not approving any specific budget yet.
+Juno Network is currently at a critical juncture, facing significant challenges. At present, there is no dedicated team responsible for maintaining and optimizing the blockchain infrastructure to ensure its stability, scalability, and efficiency. Additionally, no substantial development or other ecosystem activities are underway. To address these issues and establish a sustainable path forward, we propose a roadmap for the network, covering all of 2025. This proposal provides a general overview of Juno’s future direction, but each item will be voted on independently, with its own budget attached. This proposal does not approve any specific budget yet.
 
-The roadmap proposed is to be consider as a "bridge" phase, with the final objective when the network is ready to switch back to a completly decentralized organizational structure. This might happen in 2026, sooner or later based on factors that we can't predict at this point.
+The proposed roadmap is intended to serve as a "bridge" phase, with the ultimate goal of transitioning the network back to a completely decentralized organizational structure. This transition could occur in 2026, earlier, or later, depending on unpredictable factors.
 
 ---
 
@@ -14,17 +14,13 @@ The roadmap proposed is to be consider as a "bridge" phase, with the final objec
 
 ### Goals
 
-1. Ensure the network is updated and maintained to ensure its stability, scalability, and efficiency.
-1. Increase network activity and community engagement.
-1. Create the fundation to collaborate with other projects inside and outside the Interchain ecosystem.
-1. Grow our user base, both developers and end-users.
-1. Improve communication of what's new on Juno, make sure we have good coverage of all the released features trough popular marketing initiatives.
-1. Make sure there is enough check and balances with the teams working on the network.
-1. Make sure the network is sustainable long-term, with a well diversified treasury and incentives.
-
-### Focus Areas
-
-TO FILL
+1. Ensure the network is updated and maintained to guarantee stability, scalability, and efficiency.
+2. Increase network activity and community engagement.
+3. Establish the foundation for collaboration with other projects within and outside the Interchain ecosystem.
+4. Expand the user base, including both developers and end-users.
+5. Improve communication about new developments on Juno and ensure comprehensive coverage of released features through popular marketing initiatives.
+6. Implement adequate checks and balances for teams working on the network.
+7. Ensure the network’s long-term sustainability with a diversified treasury and incentives.
 
 ---
 
@@ -32,37 +28,37 @@ TO FILL
 
 ### Q1 2025
 
-- **Appoint a core team**: Appoint a core team to upgrade the network to SDK v50, and to maintain it. ([See Proposal 2](./2-core-team.md))
-- **Reduce infrastructure costs**: Reduce the network intrinsic costs, and simplify validator coordination by reducing the Validator set. ([See Proposal 3](./3-improve-infra.md))
-- **Budget for Cummunity Owned dAPPs**: Approve budget to build "Juno Portal", a dApp that will feature various blocks, including a Dex, token launchpad, OTC desk and more. ([See Proposal 4](./4-community-dapps.md))
-- **Budget for Community Activities**: Approve budget to run community activities, such as: bounty program, ambassador program, ideathon and more. ([See Proposal 5](./5-community-activities.md))
-- **Budget for Dev Ecosystem Growth**: Approve a budget to develop new tools for developers to build on Juno, such as AI agents framework, Telegram mini apps templates, low-coding UIs while at the same time leverage the custom modules offered by Juno ([See Proposal 6](./6-dev-ecosystem.md))
+- **Appoint a core team:** Establish a team to upgrade the network to SDK v50 and maintain it. ([See Proposal 2](./2-core-team.md))
+- **Reduce infrastructure costs:** Minimize the network’s intrinsic costs and simplify validator coordination by reducing the validator set. ([See Proposal 3](./3-improve-infra.md))
+- **Budget for Community-Owned dApps:** Approve a budget to build "Juno Portal," a dApp featuring a DEX, token launchpad, OTC desk, and more. ([See Proposal 4](./4-community-dapps.md))
+- **Budget for Community Activities:** Approve funding for community activities, such as bounty programs, ambassador programs, ideathons, and more. ([See Proposal 5](./5-community-activities.md))
+- **Budget for Developer Ecosystem Growth:** Approve funding to develop new tools for building on Juno, such as an AI agent framework, Telegram mini-app templates, and low-code UIs, while leveraging Juno’s custom modules. ([See Proposal 6](./6-dev-ecosystem.md))
 
 ### Q2-Q4 2025
 
-- Implementation of the passed proposals from above
-- **Appoint a BD team**: Appoint a team to do business development in behalf of the network.
-- **New delegation program:** Setup a new delegation program to incentivize not only infrasctruture but also app building and community engagement.
-- **Bugdget for Liquidity:** Approve a budget to improve $JUNO liquidity across Decentralized and Centralized Exchanges.
-- **Treasury diversifiaction:** Approve a budget to be diversified across various tools (OTC, automatic swaps, fee-collection)
-- **Adopt a data availability layer**: Collaborate with a DA layer to improve the network reach out and performance.
+- Implement the proposals approved in Q1.
+- **Appoint a BD team:** Establish a business development team to represent the network.
+- **New delegation program:** Set up a delegation program to incentivize not only infrastructure but also app development and community engagement.
+- **Budget for Liquidity:** Approve funding to enhance $JUNO liquidity across decentralized and centralized exchanges.
+- **Treasury diversification:** Approve a diversified treasury strategy, including OTC trades, automated swaps, and fee collection.
+- **Adopt a data availability layer:** Collaborate with a data availability (DA) layer to improve network reach and performance.
 
-### Transparency & Metrics report
+### Transparency & Metrics Report
 
-- Each quarter a report of chain activity will be published to keep track of the network's progress.
-- Each month we'll have a community call and/or an X space to discuss the next steps and share devlopment updates.
-- Every while feedback forms will be provided to the community to give suggestions and feedback on the work done.
+- A quarterly report on chain activity will be published to track the network’s progress.
+- Monthly community calls and/or Twitter Spaces will be held to discuss next steps and share development updates.
+- Periodic feedback forms will be provided to the community to collect suggestions and feedback on completed work.
 
 ## Conclusion
 
 **Call to Action:**  
-Vote YES to this proposal if you agree with the overall vision of the Juno Network roadmap. You'll have the option to vote for each items of the roadmap with future proposals.
+Vote YES to this proposal if you agree with the overall vision of the Juno Network roadmap. You’ll have the opportunity to vote on each item of the roadmap through future proposals.
 
-Vote NO if you don't agree or you want to see a roadmap structured differently.
+Vote NO if you disagree or prefer a differently structured roadmap.
 
 **Final Thoughts:**  
 Together, we can create a thriving ecosystem and secure a prosperous future for the Juno blockchain in 2025 and beyond.
 
 ---
 
-_Thank you for your consideration. Let's shape the future of Juno together!_
+_Thank you for your consideration. Let’s shape the future of Juno together!_
