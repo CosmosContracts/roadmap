@@ -32,11 +32,11 @@ The proposed roadmap is intended to serve as a "bridge" phase, with the ultimate
 - **Reduce infrastructure costs:** Minimize the network’s intrinsic costs and simplify validator coordination by reducing the validator set. ([See Proposal 3](./3-improve-infra.md))
 - **Budget for Community-Owned dApps:** Approve a budget to build "Juno Portal," a dApp featuring a DEX, token launchpad, OTC desk, and more. ([See Proposal 4](./4-community-dapps.md))
 - **Budget for Community Activities:** Approve funding for community activities, such as bounty programs, ambassador programs, ideathons, and more. ([See Proposal 5](./5-community-activities.md))
-- **Budget for Developer Ecosystem Growth:** Approve funding to develop new tools for building on Juno, such as an AI agent framework, Telegram mini-app templates, and low-code UIs, while leveraging Juno’s custom modules. ([See Proposal 6](./6-dev-ecosystem.md))
 
 ### Q2-Q4 2025
 
 - Implement the proposals approved in Q1.
+- **Budget for Developer Ecosystem Growth:** Approve funding to develop new tools for building on Juno, such as an AI agent framework, Telegram mini-app templates, and low-code UIs, while leveraging Juno’s custom modules.
 - **Appoint a BD team:** Establish a business development team to represent the network.
 - **New delegation program:** Set up a delegation program to incentivize not only infrastructure but also app development and community engagement.
 - **Budget for Liquidity:** Approve funding to enhance $JUNO liquidity across decentralized and centralized exchanges.
