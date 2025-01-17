@@ -1,4 +1,4 @@
-# Juno Roadmap: Proposal 1
+# Juno Roadmap: Proposal 1 - General Overview
 
 ## Summary
 

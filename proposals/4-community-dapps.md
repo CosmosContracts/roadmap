@@ -1,4 +1,4 @@
-# Juno Roadmap: Proposal 4
+# Juno Roadmap: Proposal 4 - Community dAPPs
 
 ## Summary
 

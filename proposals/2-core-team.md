@@ -1,4 +1,4 @@
-# Juno Roadmap: Proposal 2
+# Juno Roadmap: Proposal 2 - Core team
 
 ## Summary
 

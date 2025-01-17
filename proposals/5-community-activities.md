@@ -1,4 +1,4 @@
-# Proposal 5: Community Activities
+# Juno Roadmap: Proposal 5 - Community Activities
 
 ## Summary
 

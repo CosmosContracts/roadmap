@@ -1,4 +1,4 @@
-# Juno Roadmap: Proposal 3
+# Juno Roadmap: Proposal 3 - Reduction of the Validator Set
 
 ## Summary
 
