@@ -6,7 +6,7 @@ With this proposal, we suggest appointing two teams: Kintsugi Tech and Digital K
 
 **Who is Kintsugi Tech?**
 
-Kintsugi Tech is a validator and infrastructure provider active in the Cosmos Ecosystem and beyond. TODO
+Kintsugi Tech is a validator & software development company founded in 2022 by me (dimi) and some partners, dedicated to advancing decentralized technology with innovative solutions. We operate may validators inside and outside the Cosmos Ecosystem, and we have a long experience developing on CosmWasm & Cosmos-SDK. Our team is small (only ~8 people) but highly specialized in the fied, and we are currently focused on expanding our operations to contribute even more. For us collaborating with Juno is a huge opportuninty, but also a bet. We really believe that with our efforts we can make the network shine again.
 
 **Who is Digital Kitchen?**
 
