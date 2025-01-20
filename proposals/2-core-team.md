@@ -10,7 +10,7 @@ Kintsugi Tech is a validator and software development company founded in 2022 by
 
 **Who is Digital Kitchen?**
 
-Description of Digital Kitchen TODO
+Digital Kitchen is a Cosmos-aligned, collaborative software development group based in Germany. Founded by Marius (@vexxvakan) in 2021 as validator service, Digital Kitchen transformed into a software development group in 2022 while setting up the [Juno Apes](https://daodao.zone/dao/juno14zcdg8w3pyp7nfzaye7jp0tzynk8xpstqax5g9ypj2u66n4lst2strvwjs/home) token, [NFT collection](https://omniflix.market/c/onftdenomd7ba07c7b185461f862b9014c90a9e62/collect-now) and DAO structure on Juno. In 2023 Digital Kitchen got hired by the team at Hopers to [rebuild their app](https://hopers-landing-v2.vercel.app/) from the ground up. Since then Digital Kitchen released [a predictions market](https://app.velo.space) on another Cosmos ecosystem blockchain and also started working on a standalone blockchain using the Cosmos SDK in 2024. Working on the very core of where our journey started years ago is an honor as well an opportunity to breath fresh air into Juno and it's vibrant community.
 
 ## Deliverables
 
