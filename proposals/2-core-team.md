@@ -74,3 +74,8 @@ All the budget for 2025 will be allocated to a wallet controlled by Dimi, who wi
 ### Price disclosure
 
 The budgets have been calculated based on a $JUNO price of $0.20. In case of price fluctuations, the budget will be adjusted according to market conditions, with a maximum multiplier of 4x and a minimum multiplier of 0.25x.
+
+## Conclusion
+
+- Vote YES if you agree to appoint Digital Kitchen and Kintsugi Tech as core teams. Allocate all the budget (120,000 $JUNO + 12,000 USDC) by sending it to a wallet controlled by Dimi, and commit to the quarterly payments outlined above.
+- Vote NO if you disagree with appointing these teams or allocating these budgets.
