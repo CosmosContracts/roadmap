@@ -82,3 +82,8 @@ The budgets outlined above assume a $JUNO price of $0.20. If the price changes, 
 ## Transparency
 
 Kintsugi Tech will develop the portal entirely in public, using Juno’s GitHub repositories. The community will have the opportunity to track progress, ask questions, and provide feedback at any time. We’ll maintain a dedicated Discord channel and other communication channels for updates. Additionally, we will share development status reports every few weeks or whenever significant progress is made.
+
+## Conclusion
+
+- Vote YES if you agree to allocate the initial budget of 10,000 USDC + 60,000 JUNO (30% of 200,000 JUNO) to Kintsugi Tech to begin building v1 & v2 of the portal. A YES vote also signals commitment to pay the remaining budgets outlined above if the work meets quality standards.
+- Vote NO if you do not support building the portal or allocating these funds.
