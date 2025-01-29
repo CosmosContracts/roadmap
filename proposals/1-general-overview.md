@@ -36,7 +36,7 @@ The proposed roadmap is intended to serve as a "bridge" phase, with the ultimate
 ### Q2-Q4 2025
 
 - Implement the proposals approved in Q1.
-- **Budget for Developer Ecosystem Growth:** Approve funding to develop new tools for building on Juno, such as an AI agent framework, Telegram mini-app templates, and low-code UIs, while leveraging Juno’s custom modules.
+- **Budget for Developer Ecosystem Growth:** Approve funding to develop new tools for building on Juno, such as an AI agent framework, mobile app templates, and low-code UIs, while leveraging Juno’s custom modules.
 - **Appoint a BD team:** Establish a business development team to represent the network.
 - **New delegation program:** Set up a delegation program to incentivize not only infrastructure but also app development and community engagement.
 - **Budget for Liquidity:** Approve funding to enhance $JUNO liquidity across decentralized and centralized exchanges.
