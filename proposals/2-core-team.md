@@ -83,5 +83,5 @@ You can find the draft Cosmos-SDK v50 upgrade [here](https://github.com/CosmosCo
 
 ## Conclusion
 
-- Vote YES if you agree to appoint Digital Kitchen and Kintsugi Tech as core teams, and you agree allocating the Q1 budget (12,000 USDC) by sending it to a wallet controlled by Kintsugi committing to the monthly payments outlined above.
+- Vote YES if you agree to appoint Digital Kitchen and Kintsugi Tech as core teams, and you agree allocating the Q1 budget (12,000 USDC) by sending it to a wallet controlled by Dimi committing to the monthly payments outlined above.
 - Vote NO if you disagree with appointing these teams or allocating these budgets.
