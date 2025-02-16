@@ -23,8 +23,9 @@ The two teams will collaborate to deliver the following items by the end of Q1 2
 | Digital Kitchen | Write the software upgrade to Cosmos-SDK v50                                    |
 | Digital Kitchen | Convert/update custom modules to be compatible with the new version             |
 | Digital Kitchen | Implement CosmWasm v2                                                           |
+| Digital Kitchen | Implement feemarket module                                                      |
 | Kintsugi Tech   | Maintain the repository, ensuring CI/CD and E2E tests are functioning correctly |
-| Kintsugi Tech   | Develop new contribution guidelines                                             |
+| Kintsugi Tech   | Write new contribution guidelines                                               |
 
 ### Q1-4 Continuous Deliverables
 
@@ -49,10 +50,10 @@ The majority of the work will take place in Q1. Therefore, we propose two budget
 
 ### Q1 Budget
 
-| Team            | Budget                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------ |
-| Digital Kitchen | 12,000 USDC – To be paid 1/3 upon approval of this proposal and 2/3 after the upgrade to SDK v50 |
-| Kintsugi Tech   | No funding required                                                                              |
+| Team            | Budget                                                                                       |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| Digital Kitchen | 12,000 USDC – To be paid 1/3 immediately, 1/3 at the end of february, 1/3 a the end of march |
+| Kintsugi Tech   | No funding required                                                                          |
 
 ### Continuous Budget
 
@@ -69,13 +70,18 @@ The majority of the work will take place in Q1. Therefore, we propose two budget
 
 ## Budget Handling
 
-All the budget for 2025 will be allocated to a wallet controlled by Dimi, who will then set up a smart contract controlled by the community to handle recurring payments (on DAODAO). The community can cancel the payments at any time.
+With this proposal we are sending only Q1 budget (12,000 USDC) to a multisig wallet controlled by Kintsugi, who will send the payments each month to Digital Kitchen. Q2-4 Budgets will be requested with an additional proposal in April.
 
 ### Price disclosure
 
 The budgets have been calculated based on a $JUNO price of $0.20. In case of price fluctuations, the budget will be adjusted according to market conditions, with a maximum multiplier of 4x and a minimum multiplier of 0.25x.
 
+### Development notes
+
+Despite this proposal coming only now in the middle of Q1, we already started working on the deliverables.
+You can find the draft Cosmos-SDK v50 upgrade [here](https://github.com/CosmosContracts/juno/pull/1089), and the security upgrades already implemented by looking at upgrades ([v25](https://github.com/CosmosContracts/juno/releases/tag/v25.0.0), [v26](https://github.com/CosmosContracts/juno/releases/tag/v26.0.0), [v27](https://github.com/CosmosContracts/juno/releases/tag/v27.0.0)) made by Kintsugi.
+
 ## Conclusion
 
-- Vote YES if you agree to appoint Digital Kitchen and Kintsugi Tech as core teams. Allocate all the budget (120,000 $JUNO + 12,000 USDC) by sending it to a wallet controlled by Dimi, and commit to the quarterly payments outlined above.
+- Vote YES if you agree to appoint Digital Kitchen and Kintsugi Tech as core teams, and you agree allocating the Q1 budget (12,000 USDC) by sending it to a wallet controlled by Kintsugi committing to the monthly payments outlined above.
 - Vote NO if you disagree with appointing these teams or allocating these budgets.
