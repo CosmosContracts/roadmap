@@ -70,7 +70,7 @@ The majority of the work will take place in Q1. Therefore, we propose two budget
 
 ## Budget Handling
 
-With this proposal, we are sending only the Q1 budget (12,000 USDC) to a multisig wallet controlled by Kintsugi, who will send the payments each month to Digital Kitchen. Q2-4 budgets will be requested with an additional proposal in April.
+With this proposal, we are sending only the Q1 budget (12,000 USDC) to a wallet controlled by Dimi, who will send the payments each month to Digital Kitchen. Q2-4 budgets will be requested with an additional proposal in April.
 
 ### Price Disclosure
 
