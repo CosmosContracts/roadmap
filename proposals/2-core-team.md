@@ -70,15 +70,15 @@ The majority of the work will take place in Q1. Therefore, we propose two budget
 
 ## Budget Handling
 
-With this proposal we are sending only Q1 budget (12,000 USDC) to a multisig wallet controlled by Kintsugi, who will send the payments each month to Digital Kitchen. Q2-4 Budgets will be requested with an additional proposal in April.
+With this proposal, we are sending only the Q1 budget (12,000 USDC) to a multisig wallet controlled by Kintsugi, who will send the payments each month to Digital Kitchen. Q2-4 budgets will be requested with an additional proposal in April.
 
-### Price disclosure
+### Price Disclosure
 
 The budgets have been calculated based on a $JUNO price of $0.20. In case of price fluctuations, the budget will be adjusted according to market conditions, with a maximum multiplier of 4x and a minimum multiplier of 0.25x.
 
-### Development notes
+### Development Notes
 
-Despite this proposal coming only now in the middle of Q1, we already started working on the deliverables.
+Despite this proposal coming only now in the middle of Q1, we have already started working on the deliverables.
 You can find the draft Cosmos-SDK v50 upgrade [here](https://github.com/CosmosContracts/juno/pull/1089), and the security upgrades already implemented by looking at upgrades ([v25](https://github.com/CosmosContracts/juno/releases/tag/v25.0.0), [v26](https://github.com/CosmosContracts/juno/releases/tag/v26.0.0), [v27](https://github.com/CosmosContracts/juno/releases/tag/v27.0.0)) made by Kintsugi.
 
 ## Conclusion
